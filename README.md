@@ -1,2 +1,2 @@
 # septemberclass
-This repo is for practice yes
+This repo is for practice
